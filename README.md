@@ -5,17 +5,6 @@
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
 </div>
 
-
-### 🪐 About Me
-
-	
-- 👋 hi i'm Xyura
-- ❗ i'm just a student (beginner) 
-- 🧒 I am 15 years old
-- 🇲🇨 currently living in Indonesia, West Java
-- 🧑‍💻 I am studying programming languages and computer systems.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Xyura011) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hacker_ff36) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@HackerFf_785) 
 
